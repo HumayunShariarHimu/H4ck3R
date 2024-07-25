@@ -1,2 +1,2 @@
 # H4ck3R
-An Open Package for Learning Hacking!
+An Open Package for Learning Hacking & Cyber Security.
