@@ -1,0 +1,88 @@
+body {
+      font-family: 'Courier New', monospace;
+      background-color: black; no-repeat center center fixed; 
+	-webkit-background-size: cover;
+	-moz-background-size: cover;
+	-o-background-size: cover;
+	background-size: cover;
+      color: white;
+      margin: 0;
+      padding: 0;
+    }
+    .container {
+      max-width: 800px;
+      margin: 0 auto;
+      padding: 20px;
+    }    
+    h1 {
+      color: white;
+      font-size: 35px;
+      margin-bottom: 20px;
+      text-align: center;
+      animation: glitch 2s infinite;
+    }   
+  h2 {
+      color: red;
+      font-size: 25px;
+      margin-bottom: 20px;
+    }   
+    @keyframes glitch {
+      0% {
+        transform: translate(2px, 2px);
+        text-shadow: -1px -1px red;
+      }
+      25% {
+        transform: translate(-2px, -2px);
+        text-shadow: 2px -1px white;
+      }
+      50% {
+        transform: translate(2px, -2px);
+        text-shadow: 1px 1px lime;
+      }
+      75% {
+        transform: translate(-2px, 2px);
+        text-shadow: -2px 1px red;
+      }
+      100% {
+        transform: translate(2px, 2px);
+        text-shadow: -1px -1px lime;
+      }
+    }  
+    p {
+    	font-size: 20px;
+      color: lime;
+      line-height: 1.9;
+      margin-bottom: 5px;
+    }   
+    .button {
+      display: inline-block;
+      padding: 0.5px 0.5px;
+      background-color: black;
+      color: white;
+      text-decoration: none;
+      border-radius: 4px;
+      transition: background-color 0.3s;
+      border: none;
+      cursor: pointer;
+      font-family: 'Courier New', monospace;
+      font-size: 12px;
+      animation: neon 1s infinite;
+    }   
+    .button:hover {
+      background-color: black;
+      color: white;
+    }    
+    @keyframes neon {
+      0% {
+        box-shadow: 0 0 5px black, 0 0 10px white, 0 0 20px black;
+      }
+      50% {
+        box-shadow: 0 0 5px black, 0 0 10px #white, 0 0 30px black;
+      }
+      100% {
+        box-shadow: 0 0 5px white, 0 0 10px black, 0 0 20px white;
+      }
+    }
+a:link {
+  color: lime;
+}
