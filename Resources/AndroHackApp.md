@@ -4,7 +4,7 @@
 [NB:- Simply many of Application may be not avilable on Google play store But you can find it on Google to search for Download from other websites ||| This is the List of App Name therefore you should add (dot.apk Extension) Like "If you want to Download "LOIC" App then you can search as well "LOIC.apk Download" on Google or Others so far ||| Some of application may be Expired - Still you can find different application with same working function ||| Some of Application may be show Alert as Dangerous on "Google play protection" scan while installing - Then you have to Justify the application with own responsibility - Therefore if you want to install then click "Insaltall Anyway" ||| Don't Apply any Application to harm innocent people]
 
 
-#Anonymity:-
+# Anonymity:-
 ★ Anonymous Email (com.anonymousemail)
 ★ CompruebaIP (com.alexisabarca.android.ipchecker)
 ★ Dirección IP (com.inuxmix.direccionip)
@@ -21,14 +21,14 @@
 ★ Spy Kit (com.jsxtech.spykit.universalmailer)
 ★ Temp Mail (com.tempmail)
 
-#App Store:-
+# App Store:-
 ★ BAM (com.bestappsmarket.android.bestapps)
 ★ BlackMart (org.blackmart.market)
 ★ Fdroid App
 ★ Freedom (cc.madkite.freedom)
 ★ Plus Donation (com.pluskey)
 
-#Call & SMS:-
+# Call & SMS:-
 ★ Call Assistant (com.popularapp.fakecall)
 ★ Call Recorder (com.skvalex.callrecorder)
 ★ CrazyCall (com.MobApps.CrazyCall)
@@ -40,10 +40,10 @@
 ★ SMS Retaliator (com.openwave.smsretaliator)
 ★ Spoof Text (de.rtsmedia.spooftext)
 
-#Cryptography:- 
+# Cryptography:- 
 ★ Electrum (org.electrum.electrum)
 
-#Ddos Attack:-
+# Ddos Attack:-
 ★ LOIC (l.o.i.c)
 ★ DroidSwarm (com.soong.droidswarm)
 ★ OFS DoSer (net.openfiresecurity.ofsdoser)
@@ -51,7 +51,6 @@
 # Foresnsic:-
 ★ CellID Info (net.its_here.cellidinfo)
 ★ Exif Viewer (com.tequnique.exifviewer)
-
 ★ Loggy (com.koushikdutta.loggy)
 ★ SIM Card (com.gsmdev.simcard)
 ★ Sat Stat (com.vonglasow.michael.satstat)
@@ -60,11 +59,11 @@
 ★ Wifi Key Recovery (aws.apps.wifiKeyRecovery)
 ★ aLogCat (org.jtb.alogcat)
 
-#HID Attack:- 
+# HID Attack:- 
 ★ Drivedroid (com.softwarebakery.drivedroid)
 ★ USB Cleaver (com.novaspirit.usbcleaver)
 
-#Hacking Learning:-
+# Hacking Learning:-
 ★ Ethical Hacking (com.ethicalhacking)
 ★ Hackers Manual (com.alienskills.hackers.manual)
 ★ Hacking Tutorials (x.abcd)
@@ -74,11 +73,11 @@
 ★ Linux Command Line (com.ionicframework.lcl214661)
 ★ Terminal Command (hsmnzaydn.serkanozaydin.net)
 
-#MITM
+# MITM
 ★ Intercepter-NG (su.sniff.cepter)
 ★ cSpolit (org.csploit.android)
 
-#Networking
+# Networking
 ★ AndFTP (lysesoft.andftp)
 ★ android nmap (com.android.nmap)
 ★ Bcmon (com.bcmon.bcmon)
@@ -87,7 +86,6 @@
 ★ FING (com.overlook.android.fing)
 ★ Firebind (com.firebind.android)
 ★ Droid Havji (com.firebind.android)
-
 ★ FoxFi (com.foxfi)
 ★ HTTPing (com.vanheusden.HTTPing)
 ★ Hosts Editor (com.nilhcem.hostseditor)
@@ -106,7 +104,7 @@
 ★ Wireless Tether (android.tether)
 ★ ezNetScan (com.vrsspl.eznetscan)
 
-#PenTesting 
+# PenTesting 
 ★ 0Day Exploits (co.lobito.exploits)
 ★ AndRax Mobile Pentest 
 ★ FrameworkAndroidApp (com.bulbsecurity.framework.app)
@@ -116,7 +114,7 @@
 ★ PenTest Tools (com.itslap.pentesttools)
 ★ WiFinspect (uk.co.opticiancms.wifiprobe)
 
-#People & File Search
+# People & File Search
 ★ 123People 
 ★ Datosde
 ★ FileChef
@@ -127,7 +125,7 @@
 ★ Tin Eye
 ★ WiGLE WiFi Wardriving 
 
-#Rwmote Access:-
+# Rwmote Access:-
 ★ Airdroid 
 ★ Airdroid Pro
 ★ BT Info
@@ -138,12 +136,12 @@
 ★ VNC viewer
 ★ WebKey
 
-#Router
+# Router
 ★ Router KeyGen
 ★ Router Pwn
 ★ WIBR
 
-#Scripting
+# Scripting
 ★ Llama
 ★ Perl for Android
 ★ Python for Android
@@ -152,7 +150,7 @@
 ★ Script Launcher
 ★ TaskBomb
 
-#Security 
+# Security 
 ★ BlackList
 ★ DroidSheep
 ★ DroidWall
@@ -165,7 +163,7 @@
 ★ Wifi Protector
 ★ zIPS
 
-#Sniffing
+# Sniffing
 ★ DroidSniff
 ★ Intercepter NG Lite
 ★ MobiPast
@@ -176,13 +174,12 @@
 ★ SharkReader
 ★ WhatsApp Sniffer
 
-#SpyCam
+# SpyCam
 ★IP Cam Viewer
 ★ SC -OS
 ★ Secret Video Recorder Pro
 
-
-#System 
+# System 
 ★Ghost Commander Samba
 ★ Ghost Commender
 ★ Init.d Toggler
@@ -209,27 +206,26 @@
 ★Z-Archiver
 ★ i-Jetty
 
-
-#Terminal 
+# Terminal 
 ★ Termux
 ★ ConnectBot
 ★ Terminal Emulator
 ★ Terminal IDE
 ★ Termux API
 
-#Web
+# Web
 ★ ASQLI
 ★ Admin Panel Finder
 ★ DroidSQL
 
-#Whatsapp
+# Whatsapp
 ★ Whatsapp Bomber
 ★ Whatsapp Sniffer
 ★ WhatsappHack
 ★ Whatsaid
 ★ WhatsApp Spammer
 
-#Wireless 
+# Wireless 
 ★ SpeedKey
 ★ WIBR Pro
 ★ WLan Audit
@@ -246,7 +242,7 @@
 ★ WPA WPS Tester
 ★ WPA WPS Tester Prime
 
-#Random
+# Random
 ★KeyStrock Logger
 ★ Droid Pentest
 ★ DroidSheep
@@ -268,7 +264,3 @@
 ★ Shark
 ★ ShrakReader
 ★ SMS Combo
-
-
-
-
