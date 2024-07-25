@@ -1,4 +1,4 @@
->>>Hacking with Android Application<<<
+>>> Hacking with Android Application <<<
 
 [Read:- App name or App name with Package name - You may easily find it on Google Search]
 [NB:- Simply many of Application may be not avilable on Google play store But you can find it on Google to search for Download from other websites ||| This is the List of App Name therefore you should add (dot.apk Extension) Like "If you want to Download "LOIC" App then you can search as well "LOIC.apk Download" on Google or Others so far ||| Some of application may be Expired - Still you can find different application with same working function ||| Some of Application may be show Alert as Dangerous on "Google play protection" scan while installing - Then you have to Justify the application with own responsibility - Therefore if you want to install then click "Insaltall Anyway" ||| Don't Apply any Application to harm innocent people]
